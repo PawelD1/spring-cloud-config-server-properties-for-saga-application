@@ -3,4 +3,4 @@ spring:
     import:
       - kafka-common.yaml
       - postgres-db-common.yaml
-      - optional:spring-cloud-common.yaml
+      - spring-cloud-common.yaml
