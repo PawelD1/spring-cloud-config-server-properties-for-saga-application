@@ -1,0 +1,6 @@
+spring:
+  config:
+    import:
+      - kafka-common.yaml
+      - postgres-db-common.yaml
+      - spring-cloud-common.yaml
